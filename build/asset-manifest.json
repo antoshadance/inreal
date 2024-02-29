@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.f2dd1b81.css",
-    "main.js": "/static/js/main.66aa29c2.js",
+    "main.css": "/static/css/main.d4810f4c.css",
+    "main.js": "/static/js/main.1df07845.js",
     "static/media/Hero-Image1.jpg": "/static/media/Hero-Image1.3b550855c1eae468983c.jpg",
     "static/media/pngwing.png": "/static/media/pngwing.bf03eab6afbe549ee13f.png",
-    "static/media/productPC1.jpg": "/static/media/productPC1.3d06e2418819d90ede9d.jpg",
+    "static/media/photo_2024-02-29_09-51-37.jpg": "/static/media/photo_2024-02-29_09-51-37.35f3ab11bb4d4f397cbf.jpg",
+    "static/media/photo_2024-02-29_09-51-34.jpg": "/static/media/photo_2024-02-29_09-51-34.51d6b161a2fe99a453d4.jpg",
+    "static/media/photo_2024-02-29_09-51-35.jpg": "/static/media/photo_2024-02-29_09-51-35.15f637f4d1324274b68e.jpg",
     "index.html": "/index.html",
-    "main.f2dd1b81.css.map": "/static/css/main.f2dd1b81.css.map",
-    "main.66aa29c2.js.map": "/static/js/main.66aa29c2.js.map"
+    "main.d4810f4c.css.map": "/static/css/main.d4810f4c.css.map",
+    "main.1df07845.js.map": "/static/js/main.1df07845.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2dd1b81.css",
-    "static/js/main.66aa29c2.js"
+    "static/css/main.d4810f4c.css",
+    "static/js/main.1df07845.js"
   ]
 }
