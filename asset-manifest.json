@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1fb4820e.css",
-    "main.js": "/static/js/main.841cb70c.js",
+    "main.css": "/static/css/main.6909870a.css",
+    "main.js": "/static/js/main.9cc28d39.js",
     "static/media/sigmund-4UGmm3WRUoQ-unsplash.jpg": "/static/media/sigmund-4UGmm3WRUoQ-unsplash.de39fbfd5ffe6b5cedec.jpg",
     "static/media/photo_2024-03-04_08-50-39.jpg": "/static/media/photo_2024-03-04_08-50-39.50bc769355d0b9e6cc49.jpg",
     "static/media/pngwing.png": "/static/media/pngwing.bf03eab6afbe549ee13f.png",
@@ -10,16 +10,18 @@
     "static/media/kaleidico-26MJGnCM0Wc-unsplash.jpg": "/static/media/kaleidico-26MJGnCM0Wc-unsplash.2bb0345635bb794a24db.jpg",
     "static/media/steve-johnson-RZV4bUyDWUM-unsplash.jpg": "/static/media/steve-johnson-RZV4bUyDWUM-unsplash.04a4d4f5be81cee815cc.jpg",
     "static/media/jigar-panchal-0nMAg7FBGuw-unsplash.jpg": "/static/media/jigar-panchal-0nMAg7FBGuw-unsplash.598be7a11f3295cb3b9b.jpg",
+    "static/media/analytics1.jpg": "/static/media/analytics1.a7980ea4021edbe6ae27.jpg",
+    "static/media/analytics2.jpg": "/static/media/analytics2.5b14a915678041f8421e.jpg",
     "static/media/photo_2024-02-29_09-51-37.jpg": "/static/media/photo_2024-02-29_09-51-37.35f3ab11bb4d4f397cbf.jpg",
     "static/media/alberto-juarez-cPm8HPRL04w-unsplash.jpg": "/static/media/alberto-juarez-cPm8HPRL04w-unsplash.930fe10afd0f1e6f5684.jpg",
     "static/media/mob11.jpg": "/static/media/mob11.75b7a24f6b8e72c89067.jpg",
     "static/media/photo_2024-02-29_09-51-34.jpg": "/static/media/photo_2024-02-29_09-51-34.51d6b161a2fe99a453d4.jpg",
     "index.html": "/index.html",
-    "main.1fb4820e.css.map": "/static/css/main.1fb4820e.css.map",
-    "main.841cb70c.js.map": "/static/js/main.841cb70c.js.map"
+    "main.6909870a.css.map": "/static/css/main.6909870a.css.map",
+    "main.9cc28d39.js.map": "/static/js/main.9cc28d39.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fb4820e.css",
-    "static/js/main.841cb70c.js"
+    "static/css/main.6909870a.css",
+    "static/js/main.9cc28d39.js"
   ]
 }
